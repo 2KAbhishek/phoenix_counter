@@ -10,7 +10,7 @@ defmodule PhoenixCounterWeb.Counter do
   end
 
   def handle_event("decrement", _, socket) do
-    {:noreply, assign(socket, count: socket.assigns.count - 1)}
+    {:noreply, assign(socket, count: max(0, socket.assigns.count - 1))}
   end
 
   def handle_event("clear", _, socket) do

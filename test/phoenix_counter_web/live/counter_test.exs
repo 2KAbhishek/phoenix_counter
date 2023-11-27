@@ -16,6 +16,7 @@ defmodule PhoenixCounterWeb.CounterTest do
     assert(render_click(page, :decrement, %{}) =~ "2")
     assert(render_click(page, :decrement, %{}) =~ "1")
     assert(render_click(page, :decrement, %{}) =~ "0")
+    assert(render_click(page, :decrement, %{}) =~ "0")
   end
 
   test "clear", %{conn: conn} do
