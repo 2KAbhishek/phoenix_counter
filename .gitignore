@@ -35,3 +35,5 @@ phoenix_counter-*.tar
 npm-debug.log
 /assets/node_modules/
 
+# Ignore heroicons https://github.com/phoenixframework/phoenix/issues/5622
+/assets/vendor/heroicons/
