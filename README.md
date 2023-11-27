@@ -1,36 +1,36 @@
 <div align = "center">
 
-<h1><a href="https://github.com/2kabhishek/bare-minimum">bare-minimum</a></h1>
+<h1><a href="https://github.com/2kabhishek/phoenix_counter">phoenix_counter</a></h1>
 
-<a href="https://github.com/2KAbhishek/bare-minimum/blob/main/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/2kabhishek/bare-minimum?style=flat&color=eee&label="> </a>
+<a href="https://github.com/2KAbhishek/phoenix_counter/blob/main/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/2kabhishek/phoenix_counter?style=flat&color=eee&label="> </a>
 
-<a href="https://github.com/2KAbhishek/bare-minimum/graphs/contributors">
-<img alt="People" src="https://img.shields.io/github/contributors/2kabhishek/bare-minimum?style=flat&color=ffaaf2&label=People"> </a>
+<a href="https://github.com/2KAbhishek/phoenix_counter/graphs/contributors">
+<img alt="People" src="https://img.shields.io/github/contributors/2kabhishek/phoenix_counter?style=flat&color=ffaaf2&label=People"> </a>
 
-<a href="https://github.com/2KAbhishek/bare-minimum/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/bare-minimum?style=flat&color=98c379&label=Stars"></a>
+<a href="https://github.com/2KAbhishek/phoenix_counter/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/phoenix_counter?style=flat&color=98c379&label=Stars"></a>
 
-<a href="https://github.com/2KAbhishek/bare-minimum/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/bare-minimum?style=flat&color=66a8e0&label=Forks"> </a>
+<a href="https://github.com/2KAbhishek/phoenix_counter/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/phoenix_counter?style=flat&color=66a8e0&label=Forks"> </a>
 
-<a href="https://github.com/2KAbhishek/bare-minimum/watchers">
-<img alt="Watches" src="https://img.shields.io/github/watchers/2kabhishek/bare-minimum?style=flat&color=f5d08b&label=Watches"> </a>
+<a href="https://github.com/2KAbhishek/phoenix_counter/watchers">
+<img alt="Watches" src="https://img.shields.io/github/watchers/2kabhishek/phoenix_counter?style=flat&color=f5d08b&label=Watches"> </a>
 
-<a href="https://github.com/2KAbhishek/bare-minimum/pulse">
-<img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/bare-minimum?style=flat&color=e06c75&label="> </a>
+<a href="https://github.com/2KAbhishek/phoenix_counter/pulse">
+<img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/phoenix_counter?style=flat&color=e06c75&label="> </a>
 
 <h3>Short Sweet Headline 🎇🎉</h3>
 
 <figure>
-  <img src="images/screenshot.png" alt="bare-minimum in action">
+  <img src="images/screenshot.png" alt="phoenix_counter in action">
   <br/>
-  <figcaption>bare-minimum in action</figcaption>
+  <figcaption>phoenix_counter in action</figcaption>
 </figure>
 
 </div>
 
-bare-minimum is a `<utility/tool>` that allows `<target_audience>` to `<action>`.
+phoenix_counter is a `<utility/tool>` that allows `<target_audience>` to `<action>`.
 
 ## ✨ Features
 
@@ -48,8 +48,8 @@ bare-minimum is a `<utility/tool>` that allows `<target_audience>` to `<action>`
 ### 💻 Installation
 
 ```bash
-git clone https://github.com/2kabhishek/bare-minimum
-cd bare-minimum
+git clone https://github.com/2kabhishek/phoenix_counter
+cd phoenix_counter
 <install_command>
 ```
 
@@ -57,9 +57,9 @@ cd bare-minimum
 
 ```bash
 USAGE:
-    bare-minimum [FLAGS] [OPTIONS]
+    phoenix_counter [FLAGS] [OPTIONS]
 Example:
-    bare-minimum
+    phoenix_counter
 ```
 
 ## 🏗️ What's Next
@@ -76,7 +76,7 @@ Planning to add `<feature/module>`.
 
 ### 🌈 Inspiration
 
-bare-minimum was inspired by `<reason/idea>`.
+phoenix_counter was inspired by `<reason/idea>`.
 
 ### 💡 Challenges/Learnings
 
@@ -100,7 +100,7 @@ bare-minimum was inspired by `<reason/idea>`.
 
 <strong>⭐ hit the star button if you found this useful ⭐</strong><br>
 
-<a href="https://github.com/2KAbhishek/bare-minimum">Source</a>
+<a href="https://github.com/2KAbhishek/phoenix_counter">Source</a>
 | <a href="https://2kabhishek.github.io/blog" target="_blank">Blog </a>
 | <a href="https://twitter.com/2kabhishek" target="_blank">Twitter </a>
 | <a href="https://linkedin.com/in/2kabhishek" target="_blank">LinkedIn </a>
