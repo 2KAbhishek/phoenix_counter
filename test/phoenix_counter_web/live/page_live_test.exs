@@ -10,17 +10,17 @@ defmodule PhoenixCounterWeb.PageLiveTest do
 
   test "increment and decrement", %{conn: conn} do
     {:ok, page, _html} = live(conn, "/")
-    asserd(render_click(page, :inc, %{}) =~ "1")
-    asserd(render_click(page, :inc, %{}) =~ "2")
-    asserd(render_click(page, :inc, %{}) =~ "3")
-    asserd(render_click(page, :dec, %{}) =~ "2")
-    asserd(render_click(page, :dec, %{}) =~ "1")
-    asserd(render_click(page, :dec, %{}) =~ "0")
+    assert(render_click(page, :inc, %{}) =~ "1")
+    assert(render_click(page, :inc, %{}) =~ "2")
+    assert(render_click(page, :inc, %{}) =~ "3")
+    assert(render_click(page, :dec, %{}) =~ "2")
+    assert(render_click(page, :dec, %{}) =~ "1")
+    assert(render_click(page, :dec, %{}) =~ "0")
   end
 
   test "clear", %{conn: conn} do
     {:ok, page, _html} = live(conn, "/")
-    asserd(render_click(page, :inc, %{}) =~ "1")
-    asserd(render_click(page, :clear, %{}) =~ "0")
+    assert(render_click(page, :inc, %{}) =~ "1")
+    assert(render_click(page, :clear, %{}) =~ "0")
   end
 end
