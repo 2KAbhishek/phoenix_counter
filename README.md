@@ -47,6 +47,16 @@ phoenix_counter is a `<utility/tool>` that allows `<target_audience>` to `<actio
 
 ### 💻 Installation
 
+To install phoenix run:
+```bash
+mix archive.install hex phx_new
+```
+
+This app boilerplate was generated using
+```bash
+mix phx.new phoenix_counter --no-ecto --no-gettext --no-mailer --no-dashboard
+```
+
 ```bash
 git clone https://github.com/2kabhishek/phoenix_counter
 cd phoenix_counter
