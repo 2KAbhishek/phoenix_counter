@@ -20,78 +20,64 @@
 <a href="https://github.com/2KAbhishek/phoenix_counter/pulse">
 <img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/phoenix_counter?style=flat&color=e06c75&label="> </a>
 
-<h3>Short Sweet Headline 🎇🎉</h3>
-
-<figure>
-  <img src="images/screenshot.png" alt="phoenix_counter in action">
-  <br/>
-  <figcaption>phoenix_counter in action</figcaption>
-</figure>
+<h3>Count in Phoenix 🦅🔥</h3>
 
 </div>
 
-phoenix_counter is a `<utility/tool>` that allows `<target_audience>` to `<action>`.
+A counter app built using phoenix.
 
 ## ✨ Features
 
-- Supports foo
-- Can do bar
-- Works with bazz
+- Built with atomic commits
+- Can be used for learning purposes
 
 ## ⚡ Setup
 
 ### ⚙️ Requirements
 
-- foo >= bar
-- bazz
+- erlang (26.1.1)
+- elixir (~1.15)
 
 ### 💻 Installation
 
 To install phoenix run:
+
 ```bash
 mix archive.install hex phx_new
 ```
 
-This app boilerplate was generated using
-```bash
-mix phx.new phoenix_counter --no-ecto --no-gettext --no-mailer --no-dashboard
-```
+Clone the repo
 
 ```bash
 git clone https://github.com/2kabhishek/phoenix_counter
 cd phoenix_counter
-<install_command>
 ```
 
 ## 🚀 Usage
 
 To start your Phoenix server:
 
-  * Run `mix setup` to install and setup dependencies
-  * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
+- Run `mix setup` to install and setup dependencies
+- Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-## 🏗️ What's Next
+This app boilerplate was generated using
 
-Planning to add `<feature/module>`.
-
-### ✅ To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
+```bash
+mix phx.new phoenix_counter --no-ecto --no-gettext --no-mailer --no-dashboard
+```
 
 ## 🧑‍💻 Behind The Code
 
 ### 🌈 Inspiration
 
-phoenix_counter was inspired by `<reason/idea>`.
+Wanted to explore Phoenix.
 
 ### 💡 Challenges/Learnings
 
-- The main challenges were `<issue/difficulty>`
-- I learned about `<learning/accomplishment>`
+- I had to clean up heroicons assests, doing that on every project where not needed.
+- I learned more about the Phoenix and Elixir ecosystem.
 
 ### 🧰 Tooling
 
@@ -102,7 +88,7 @@ phoenix_counter was inspired by `<reason/idea>`.
 
 ### 🔍 More Info
 
-- [similar](https://github.com/2kabhishek/similar) — a related repo
+- [phoenix_rest](https://github.com/2kabhishek/phoenix_rest) — REST API with Phoenix
 
 <hr>
 
